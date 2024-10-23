@@ -1,0 +1,10 @@
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\bin\Debug\Sql_Trainings.exe.config
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\bin\Debug\Sql_Trainings.exe
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\bin\Debug\Sql_Trainings.pdb
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\bin\Debug\System.Data.SqlClient.dll
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\bin\Debug\System.Data.SqlClient.xml
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\obj\Debug\Sql_Trainings.csproj.AssemblyReference.cache
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\obj\Debug\Sql_Trainings.csproj.CoreCompileInputs.cache
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\obj\Debug\Sql_Trainings.csproj.CopyComplete
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\obj\Debug\Sql_Trainings.exe
+D:\All_dot_net_trainings\Sql_Trainings\Sql_Trainings\obj\Debug\Sql_Trainings.pdb
